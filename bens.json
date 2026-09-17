@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "item": "Armario de gatos advogados",
+        "local": "Sala de Gatos",
+        "data": "2026-09-17",
+        "valor": 1267,
+        "patrimonio": "PT123"
+    },
+    {
+        "id": 2,
+        "item": "Sapo Voador",
+        "local": "Fabrica de Sapos Voadores",
+        "data": "2026-09-15",
+        "valor": 4700,
+        "patrimonio": "PT178"
+    },
+    {
+        "id": 3,
+        "item": "Unicórnio Flamejante",
+        "local": "Fábrica de Fogo",
+        "data": "2026-09-107",
+        "valor": 9000,
+        "patrimonio": "PT179"
+    }
+]
