@@ -8,3 +8,5 @@ Aula de Backend MVC projeto de exemplo usando um mockup bend.json
 - MVC
 - VsCode
 - JavaScript
+
+<img src="https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif">
